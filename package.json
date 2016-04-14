@@ -1,0 +1,23 @@
+{
+  "name": "freess",
+  "version": "1.0.0",
+  "description": "a script auto to get free shadowsocks account",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/NaturalWill/freess",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/NaturalWill/freess.git"
+  },
+  "author": {
+    "name":"NaturalWill",
+    "email":"naturalwill999@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "request": "*",
+    "cheerio":"*"
+  }
+}
